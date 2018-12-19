@@ -1,0 +1,32 @@
+.starter-template
+{
+    padding: 60px 15px;
+
+}
+
+.parag{
+	
+	background-color:#F7F2B2; 
+}
+.row h4{
+ text-decoration: underline; 
+ font-weight: bold; 
+		
+}
+.row h1{
+	
+	background-color: #F5F5F5;
+}
+
+
+.titre{
+	background-color: #F5F5F5;
+	font-size: 38px; 
+	
+	font-family: Arial;
+
+}
+ .starter-template hr{
+ border-width: 3px;
+ color: black:
+}
